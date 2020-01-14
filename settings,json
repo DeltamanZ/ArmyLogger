@@ -1,5 +1,6 @@
 {
-  "through_server": true,
+  "through_server": false,
+  "server_settings": "",
   "version": 1,
   "last_update": "http://",
   "enabled": true,
