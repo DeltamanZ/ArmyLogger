@@ -1,0 +1,17 @@
+{
+  "through_server": true,
+  "version": 1,
+  "last_update": "http://",
+  "enabled": true,
+  "anyone_can_use": false,
+  "disabled_msg": "Скрипт временно отключен.",
+  "high-access": 
+  [
+    "Erick_Brown",
+    "Arthur_Ketch"
+  ],
+  "low-access":
+  [
+    "Alexey_Kumov"
+  ]
+}
