@@ -3,15 +3,11 @@
   "version": 1,
   "last_update": "http://",
   "enabled": true,
-  "anyone_can_use": false,
   "disabled_msg": "Скрипт временно отключен.",
-  "high-access": 
+  "anyone_can_use": false,
+  "access": 
   [
     "Erick_Brown",
     "Arthur_Ketch"
-  ],
-  "low-access":
-  [
-    "Alexey_Kumov"
   ]
 }
