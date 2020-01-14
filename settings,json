@@ -4,7 +4,7 @@
   "last_update": "http://",
   "enabled": true,
   "disabled_msg": "Скрипт временно отключен.",
-  "anyone_can_use": false,
+  "anyone_can_use": true,
   "access": 
   [
   ]
